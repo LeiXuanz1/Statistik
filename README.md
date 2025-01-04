@@ -49,16 +49,16 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
 
 - Programming Language: Python 3.8 or later.
      - Libraries Used:
-       ● pandas
-          ● numpy
-        ● matplotlib
-        ● seaborn
-        ● scikit-learn
+        - pandas
+        - numpy
+        - matplotlib
+        - seaborn
+        - scikit-learn
 
 ## How to Run
 
-1. Set Up the Python Environment:
-        ● Install all dependencies using:
+1. **Set Up the Python Environment:**
+        - Install all dependencies using:
 ``` bash
 pip install -r requirements.txt
         
