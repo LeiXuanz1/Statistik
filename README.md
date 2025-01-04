@@ -74,4 +74,9 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
    - For Analysis Regression:
         ``` bash
         Linear Regression.py
-3.  
+3.  **View Results:**
+   - Data visualizations are saved to output files or displayed directly.
+   - Prediction results are saved in regression_predictions.csv.
+
+ # License
+ # This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
