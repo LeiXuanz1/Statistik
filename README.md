@@ -38,10 +38,10 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
 
 ## Results
 
-- Model Evaluation:
+- **Model Evaluation**
     - MSE: 9.942482599329597e-16
     - R²: 1.0
-- Recomendations: 
+- **Recomendations**
     - A more in-depth analysis of variables with influence can be carried out with high influence to improve model performance.
     - Other modeling such as regularization regression (Ridge or Lasso) if needed.
 
@@ -57,11 +57,11 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
 
 ## How to Run
 
-1. **Set Up the Python Environment:**
+1. **Set Up the Python Environment**
    - Install all dependencies using:
    ``` bash
    pip install -r requirements.txt
-2. **Run Scripts:**
+2. **Run Scripts**
    - For EDA:
         ``` bash
         visualisasi EDA.py
@@ -74,7 +74,7 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
    - For Analysis Regression:
         ``` bash
         Linear Regression.py
-3.  **View Results:**
+3.  **View Results**
    - Data visualizations are saved to output files or displayed directly.
    - Preprocessing results are saved in processed_car_sales.csv.
    - Train Test results are saved in X_train.csv, X_test.csv, y_train.csv, y_test.csv.
