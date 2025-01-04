@@ -54,5 +54,6 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
 ## How to Run
     1. Set Up the Python Environment:
         ● Install all dependencies using:
+            ``` bash
             pip install -r requirements.txt
         
