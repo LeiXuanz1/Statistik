@@ -75,10 +75,10 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
         ``` bash
         Linear Regression.py
 3.  **View Results**
-   - Data visualizations are saved to output files or displayed directly.
-   - Preprocessing results are saved in processed_car_sales.csv.
-   - Train Test results are saved in X_train.csv, X_test.csv, y_train.csv, y_test.csv.
-   - Prediction results are saved in regression_predictions.csv.
+     - Data visualizations are saved to output files or displayed directly.
+     - Preprocessing results are saved in processed_car_sales.csv.
+     - Train Test results are saved in X_train.csv, X_test.csv, y_train.csv, y_test.csv.
+     - Prediction results are saved in regression_predictions.csv.
 
  # License
  # This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
