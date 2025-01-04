@@ -5,7 +5,9 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
 ## Project Structure
     1. Data
        ● Input Files:
+         ● car_sales.csv: The dataset for visualization and EDA.
          ● processed_car_sales.csv: The preprocessed dataset.
+         ● normalized_car_sales.csv: The normalized preprocessed dataset.
        ● Output Files:
          ● X_train.csv, X_test.csv, y_train.csv, y_test.csv: Train-test split results.
          ● regression_predictions.csv: Predictions based on the linear regression model.
