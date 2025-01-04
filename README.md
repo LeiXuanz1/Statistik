@@ -4,7 +4,7 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
 
 ## Project Structure
 
-**1. Data**
+1. **Data**
      - Input Files:
          - car_sales.csv: The dataset for visualization and EDA.
          - normalized_car_sales.csv: The normalized preprocessed dataset.
@@ -12,7 +12,7 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
          - processed_car_sales.csv: The preprocessed dataset.
          - X_train.csv, X_test.csv, y_train.csv, y_test.csv: Train-test split results.
          - regression_predictions.csv: Predictions based on the linear regression model.
-**2. Code**
+2. **Code**
      - visualisasi EDA.py: Script for data exploration and visualization.
      - Preprocessing Data.py: Script for preprocessing.
      - Train Test Split.pt: Script for train-test splitting.
@@ -20,20 +20,20 @@ This project aims to analyze car sales data using Exploratory Data Analysis (EDA
 
 ## Steps
 
-**1. Exploratory Data Analysis (EDA)**
+1. **Exploratory Data Analysis (EDA)**
      - Understand the dataset structure.
      - Identify patterns and relationships between features through visualization.
-**2. Preprocessing**
+2. **Preprocessing**
      - Drop irrelevant features.
      - Normalize data (optional, based on model needs).
-**3. Train-Test Split**
+3. **Train-Test Split**
      - Split the dataset into 80% training data and 20% test data.
-**4. Modeling**
+4. **Modeling**
      - Build a linear regression model to predict the target Sales_in_thousands.
          - Evaluate the model using metrics:
          - Mean Squared Error (MSE)
          - R-squared (R²)
-**5. Interpretation**
+5. **Interpretation**
      - Analyze the model results and provide recommendations for further development.
 
 ## Results
