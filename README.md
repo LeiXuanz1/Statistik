@@ -1,4 +1,4 @@
-# Car Sales Analysis and Regression
+# Car Sales
 ## Project Description
 This project aims to analyze car sales data using Exploratory Data Analysis (EDA), preprocessing, train-test splitting, and building a linear regression model to predict car sales based on given features. The results are interpreted to provide business insights and strategic recommendations.
 
